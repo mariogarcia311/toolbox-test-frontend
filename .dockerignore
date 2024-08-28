@@ -1,0 +1,15 @@
+node_modules
+
+.env
+
+*.log
+
+test
+tests
+coverage
+*.spec.js
+*.test.js
+
+build
+
+.cache
