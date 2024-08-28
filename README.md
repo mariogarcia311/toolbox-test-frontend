@@ -1,6 +1,7 @@
 # React + Vite
 
 docker build -t front-toolbox-app .
+
 docker run -d -p 80:80 --name front-container-toolbox-app front-toolbox-app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
